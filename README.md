@@ -11,8 +11,7 @@
 - 💬 Ask me about **React-Native, C#, Web-dev, Unity, Unreal-Engine**
 
 - 📫 How to reach me **mrunang@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
