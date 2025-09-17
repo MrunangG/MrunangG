@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 
 - 🔭 Currently pursuing **Bachelor in Data Science & AI** at IIT Jodhpur  
-- 💻 5 years of experience in **Python development, AI-driven solutions, and cloud (AWS)**  
+- 💻 5+ years of experience in **Python development, AI-driven solutions, and cloud (AWS)**  
 - 🤖 Passionate about **Generative AI, NLP, and RAG pipelines**  
-- 📂 Explore my projects:  
+- 📂 Explore my featured projects:  
   - [AI-Powered Resume & JD Analyzer](https://github.com/MrunangG/resume-analyser)  
   - [Automotive Voice Assistant with Local RAG (Phi-2)](https://huggingface.co/MrunangG/phi-2-mbux-assistant)  
 - 📫 Reach me at **mrunang@gmail.com**  
@@ -36,11 +36,19 @@
 
 ---
 
-### 📈 GitHub Stats
-![Mrunang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrunangG&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrunangG&layout=compact&theme=radical)  
+### 📌 Featured Projects
+📄 **AI-Powered Resume & JD Analyzer**  
+- NLP-based tool that compares resumes with job descriptions.  
+- Extracts key skills, calculates a relevance score, and highlights missing keywords.  
+- [GitHub Repo →](https://github.com/MrunangG/resume-analyser)  
+
+🚗 **Automotive Voice Assistant with Local RAG (Phi-2)**  
+- Built a proof-of-concept voice assistant using Microsoft’s Phi-2 LLM.  
+- Implemented a full RAG pipeline to query vehicle manuals efficiently.  
+- Deployed on Hugging Face for public demo.  
+- [Hugging Face →](https://huggingface.co/MrunangG/phi-2-mbux-assistant)  
 
 ---
 
-### 🌐 Connect with Me 
+### 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MrunangG)  
