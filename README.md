@@ -4,12 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 
-- 🌱 I’m currently learning **CI/CD**
-
-- 👨‍💻 All of my projects are available at [https://mrunang.site/](https://mrunang.site/)
-
-- 💬 Ask me about **React-Native, C#, Web-dev, Unity, Unreal-Engine**
-
 - 📫 How to reach me **mrunang@gmail.com**
 
 <p align="left">
