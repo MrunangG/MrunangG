@@ -1,6 +1,6 @@
 [![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://mrunang.site)
 <h1 align="center">Hi 👋, I'm Mrunang Gharpure</h1>
-<h3 align="center">Python Developer | AI/ML Enthusiast | Quantitative Finance</h3>
+<h3 align="center">Python Developer | AI/ML Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 
