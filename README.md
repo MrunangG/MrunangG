@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Technical Skills (JD-Aligned)
+## 🛠️ Technical Skills 
 
 ### **UI / Frontend Development**
 - HTML5, CSS3, JavaScript, TypeScript  
